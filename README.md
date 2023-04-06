@@ -1,3 +1,6 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/5412776a-c94a-4789-993f-20da70bad59f/deploy-status)](https://app.netlify.com/sites/kaleidoscopic-capybara-465e22/deploys)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
