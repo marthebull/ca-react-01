@@ -7,7 +7,9 @@
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/5412776a-c94a-4789-993f-20da70bad59f/deploy-status)](https://app.netlify.com/sites/kaleidoscopic-capybara-465e22/deploys)
 
-🌐 [Live site at Netlify: https://highestbidder.netlify.app](https://kaleidoscopic-capybara-465e22.netlify.app/)
+<img src="https://marthebull.no/wp-content/uploads/2023/06/thingyverse-1.png" alt="Image description" style="width:100px; height:100px;">
+
+🌐 [Live site at Netlify: https://kaleidoscopic-capybara-465e22.netlify.app](https://kaleidoscopic-capybara-465e22.netlify.app/)
 
 🎨  [Figma - very quick design sketch](https://www.figma.com/file/5D3YvqQDl8P7aKipvhJHG8/CA-react?type=design&node-id=0-1&t=5HyRQiNsNo9cX56S-0)
 
