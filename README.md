@@ -7,13 +7,11 @@
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/5412776a-c94a-4789-993f-20da70bad59f/deploy-status)](https://app.netlify.com/sites/kaleidoscopic-capybara-465e22/deploys)
 
-🌐 [Live site at Netlify: https://highestbidder.netlify.app](https://highestbidder.netlify.app/)
+🌐 [Live site at Netlify: https://highestbidder.netlify.app](https://kaleidoscopic-capybara-465e22.netlify.app/)
 
-🎨  [Figma - all design files, style guides and prottypes ](https://www.figma.com/file/RFc5emi6a6jUG75sDU1LoM/Semester-project-2?type=design&node-id=204-84&t=A6JJhVl57isURRqS-0)
+🎨  [Figma - very quick design sketch](https://www.figma.com/file/5D3YvqQDl8P7aKipvhJHG8/CA-react?type=design&node-id=0-1&t=5HyRQiNsNo9cX56S-0)
 
-💻  [Figma protoype desktop](https://www.figma.com/proto/RFc5emi6a6jUG75sDU1LoM/Semester-project-2?type=design&node-id=15-677&scaling=min-zoom&page-id=1%3A4&starting-point-node-id=15%3A677)
 
-#### NOTE: For testing the live site you have to register with a @noroff.no or @stud.noroff.no email.
 <br />
 <br />
 
